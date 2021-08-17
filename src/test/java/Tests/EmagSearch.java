@@ -15,7 +15,7 @@ public class EmagSearch extends InitiateDriver {
     public void addtoCart2MostExpensive() throws InterruptedException {
         EmagSearchPage searchPage = new EmagSearchPage(driver);
         searchPage.addToCartMostExpensiveProduct(2);
-//
+
 
 
     }
